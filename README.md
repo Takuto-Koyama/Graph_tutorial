@@ -5,10 +5,11 @@
 
 フォルダの構成は以下になります。
 
-'''
+''' 
 .  
 ├── DGL                              : DGLライブラリのチュートリアル  
-└── README.md                        : this file
+└── README.md                        : this file  
+
 '''
 
 ## DGL
