@@ -7,7 +7,7 @@
 
 ``` 
 .  
-├── DGL                              : DGLライブラリのチュートリアル  
+├── DGL_tutorial                              : DGLライブラリのチュートリアル  
 |
 └── README.md                        : this file  
 
