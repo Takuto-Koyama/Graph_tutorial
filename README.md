@@ -13,5 +13,6 @@
 
 ```
 
-## DGL
-こちらの資料はグラフを扱うライブラリであるDeep Graph Library のチュートリアルを日本語訳し、初学者向けに加筆したものです。
+## Deep Graph Library (DGL) 
+こちらの資料はグラフを扱うライブラリであるDeep Graph Library の[チュートリアル] (https://docs.dgl.ai/) を日本語訳し、初学者向けに加筆したものです。
+
